@@ -8,7 +8,7 @@
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🚀 The goal is being a full-stack developer.
-- 🔭 I’m currently working on **My Personal Portfolio Project.**
+- 🔭 I’m currently working on **[My Personal Portfolio](https://wiztech-01.github.io/Lynn-Nyaoke-website).**
 - 👀 I’m looking to collaborating on various projects.
 - 🌱 Currently studying Software Engineering in ALX and Moringa School.
 - 📫 You can reach me at [lynnnyaoke@gmail.com](mailto:lynnnyaoke@gmail.com)
