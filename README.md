@@ -1,17 +1,17 @@
- Wiztech-01/ README.md
+Wiztech-01/ README.md
 
-# Hi 👋 My name is Lynn Nyaoke 
+<h1 align="center">Hi 👋 My name is Lynn Nyaoke </h1>
 
-Software Engineering Student
+<h3 align="center">A passionate Software Engineering Student</h3>
 ----------------------------
+<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🚀 I'm currently working towards being a full-stack engineer.
-- 🧠 I'm learning as much as I can about software engineering & web applications.
+- 🔭 I’m currently working on **My personal Portfolio Project**
 - 👀 I’m looking to collaborating on various projects.
 - 🌱 I’m currently learning Software Engineering in ALX and Moringa School.
 - 📫 You can reach me at [lynnnyaoke@gmail.com](mailto:lynnnyaoke@gmail.com)
-- 😄 Pronouns: She / Her
 - ⚡ Fun fact: Coffee and code: the dynamic duo that fuels a software engineer's day.
   
 
@@ -31,6 +31,7 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a
 <!-- <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
@@ -64,18 +65,9 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Wiztech-01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Wiztech-01&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->     
 
 
-
-
-
-                     
-                          
                      
 <!---
 Wiztech-01/Wiztech-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
