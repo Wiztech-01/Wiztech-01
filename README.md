@@ -37,6 +37,7 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 </p>
 
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -57,8 +58,6 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 
 <a href="https://github.com/Wiztech-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiztech-01&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
 
@@ -69,7 +68,10 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 ---
 [![](https://visitcount.itsvg.in/api?id=Wiztech-01&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                         
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->     
+
+
+
                      
                           
                      
