@@ -1,7 +1,6 @@
 Wiztech-01/ 
 
 # Hi 👋, My name is Lynn Nyaoke 
-=============================
 
 Software Engineering Student
 ----------------------------
@@ -16,7 +15,7 @@ Software Engineering Student
 - ⚡ Fun fact: Coffee and code: the dynamic duo that fuels a software engineer's day.
   
 
-<a href="https://www.github.com/Wiztech-01" target="_blank" rel="noreferrer"><img
+<a href="https:/https://github.com/Wiztech-01)" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followersWiztech-01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/LynnNyaoke" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
