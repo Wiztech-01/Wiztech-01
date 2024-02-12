@@ -1,4 +1,4 @@
-Wiztech-01/README.md
+README.md
 
 <h1 align="center">Hi 👋 My name is Lynn Nyaoke </h1>
 
