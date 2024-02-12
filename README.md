@@ -37,6 +37,9 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 </p>
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ### Socials
 
@@ -58,7 +61,15 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-                          
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Wiztech-01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Wiztech-01&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                         
                      
                           
                      
