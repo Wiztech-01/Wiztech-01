@@ -8,9 +8,9 @@
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🚀 The goal is being a full-stack developer.
-- 🔭 I’m currently working on **My personal Portfolio Project**
+- 🔭 I’m currently working on **My Personal Portfolio Project.**
 - 👀 I’m looking to collaborating on various projects.
-- 🌱 I’m currently learning Software Engineering in ALX and Moringa School.
+- 🌱 Currently studying Software Engineering in ALX and Moringa School.
 - 📫 You can reach me at [lynnnyaoke@gmail.com](mailto:lynnnyaoke@gmail.com)
 - ⚡ Fun fact: Coffee and code: the dynamic duo that fuels a software engineer's day.
   
