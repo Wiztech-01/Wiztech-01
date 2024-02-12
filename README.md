@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Software Engineering Student</h3>
 <h3 align="center">----------------------------</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wiztech-01&label=Profile%20views&color=0e75b6&style=flat" alt="Wiztech-01" /> </p>
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🚀 The goal is being a full-stack developer.
