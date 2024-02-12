@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineering Student</h3>
 <h3 align="center">----------------------------</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wiztech-01&label=Profile%20views&color=0e75b6&style=flat" alt="Wiztech-01" /> </p>
+
 
 - 🌍 I'm based in Nairobi, Kenya
 - 🚀 The goal is being a full-stack developer.
@@ -19,6 +19,7 @@
 src="https://img.shields.io/github/followers/Wiztech-01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/LynnNyaoke" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wiztech-01&label=Profile%20views&color=0e75b6&style=flat" alt="Wiztech-01" /> </p>
                      
 
 
@@ -33,7 +34,7 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+</p><br></br>
 
 
 
