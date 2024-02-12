@@ -15,10 +15,12 @@ Software Engineering Student
 - ⚡ Fun fact: Coffee and code: the dynamic duo that fuels a software engineer's day.
   
 
-<a href="https:/https://github.com/Wiztech-01)" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followersWiztech-01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/LynnNyaoke" target="_blank" rel="noreferrer"><img
+<a href="https:/https://github.com/Wiztech-01" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Wiztech-01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/LynnNyaoke" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
+
 
 ### Skills
 
@@ -34,6 +36,7 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/https://flask.palletsprojects.com/en/3.0.x/" width="36" height="36" alt="MongoDB" /></a>
 </p>
+
 
 
 ### Socials
@@ -55,6 +58,9 @@ src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+                          
+                     
                           
                      
 <!---
