@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 - 🌍 I'm based in Nairobi, Kenya
-- 🚀 I'm currently working towards being a full-stack engineer.
+- 🚀 The goal is being a full-stack developer.
 - 🔭 I’m currently working on **My personal Portfolio Project**
 - 👀 I’m looking to collaborating on various projects.
 - 🌱 I’m currently learning Software Engineering in ALX and Moringa School.
