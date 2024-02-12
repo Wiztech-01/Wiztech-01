@@ -1,6 +1,6 @@
-Wiztech-01/ 
+Wiztech-01/ README.md
 
-# Hi 👋, My name is Lynn Nyaoke 
+# Hi 👋 My name is Lynn Nyaoke 
 
 Software Engineering Student
 ----------------------------
@@ -16,7 +16,7 @@ Software Engineering Student
   
 
 <a href="https:/https://github.com/Wiztech-01" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Wiztech-01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/LynnNyaoke" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/https://github.com/Wiztech-01?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/LynnNyaoke" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LynnNyaoke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
