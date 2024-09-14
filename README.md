@@ -11,7 +11,7 @@
 - ⚡ Recent graduate of **Moringa School** class of 2024.
 - 🔭 Interact with me on **[My Portfolio](https://lynn-nyaoke.netlify.app/).**
 - 👀 I’m looking to collaborating on various projects.
-- 🌱 Currently studying Software Engineering in ALX and Moringa School.
+- 🌱 Currently advancing my Software Engineering skills at ALX Academy & PLP Academy.
 - 📫 You can reach me at [lynnnyaoke@gmail.com](mailto:lynnnyaoke@gmail.com)
 - ⚡ Fun fact: Coffee and code: the dynamic duo that fuels a software engineer's day.
   
