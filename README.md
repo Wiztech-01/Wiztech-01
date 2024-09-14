@@ -10,7 +10,7 @@
 - 🚀 I am full-stack developer & Web Designer .
 - ⚡ Recent graduate of **Moringa School** class of 2024.
 - 🔭 Interact with me on **[My Portfolio](https://lynn-nyaoke.netlify.app/).**
-- 👀 I’m looking to collaborating on various projects.
+- 👀 I’m looking to collaborate on various projects.
 - 🌱 Currently advancing my Software Engineering skills at ALX Academy & PLP Academy.
 - 📫 You can reach me at [lynnnyaoke@gmail.com](mailto:lynnnyaoke@gmail.com)
 - ⚡ Fun fact: Coffee and code: the dynamic duo that fuels a software engineer's day.
