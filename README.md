@@ -7,8 +7,9 @@
 
 
 - 🌍 I'm based in Nairobi, Kenya
-- 🚀 The goal is being a full-stack developer.
-- 🔭 Interact with me on **[My Personal Portfolio](lynn-nyaoke.netlify.app/).**
+- 🚀 I am full-stack developer & Web Designer .
+- ⚡ Recent graduate of **Moringa School** class of 2024.
+- 🔭 Interact with me on **[My Portfolio](lynn-nyaoke.netlify.app/).**
 - 👀 I’m looking to collaborating on various projects.
 - 🌱 Currently studying Software Engineering in ALX and Moringa School.
 - 📫 You can reach me at [lynnnyaoke@gmail.com](mailto:lynnnyaoke@gmail.com)
